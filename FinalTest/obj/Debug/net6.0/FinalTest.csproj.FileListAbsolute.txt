@@ -1,0 +1,15 @@
+C:\Users\Анна\Desktop\final\FinalTest\bin\Debug\net6.0\FinalTest.exe
+C:\Users\Анна\Desktop\final\FinalTest\bin\Debug\net6.0\FinalTest.deps.json
+C:\Users\Анна\Desktop\final\FinalTest\bin\Debug\net6.0\FinalTest.runtimeconfig.json
+C:\Users\Анна\Desktop\final\FinalTest\bin\Debug\net6.0\FinalTest.dll
+C:\Users\Анна\Desktop\final\FinalTest\bin\Debug\net6.0\FinalTest.pdb
+C:\Users\Анна\Desktop\final\FinalTest\obj\Debug\net6.0\FinalTest.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\final\FinalTest\obj\Debug\net6.0\FinalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\final\FinalTest\obj\Debug\net6.0\FinalTest.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\final\FinalTest\obj\Debug\net6.0\FinalTest.AssemblyInfo.cs
+C:\Users\Анна\Desktop\final\FinalTest\obj\Debug\net6.0\FinalTest.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\final\FinalTest\obj\Debug\net6.0\FinalTest.dll
+C:\Users\Анна\Desktop\final\FinalTest\obj\Debug\net6.0\refint\FinalTest.dll
+C:\Users\Анна\Desktop\final\FinalTest\obj\Debug\net6.0\FinalTest.pdb
+C:\Users\Анна\Desktop\final\FinalTest\obj\Debug\net6.0\FinalTest.genruntimeconfig.cache
+C:\Users\Анна\Desktop\final\FinalTest\obj\Debug\net6.0\ref\FinalTest.dll
